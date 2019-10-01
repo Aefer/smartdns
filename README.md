@@ -1,6 +1,6 @@
 # SmartDNS
 
-**[English](ReadMe_en.md)**
+**[English](https://github.com/pymumu/smartdns/blob/master/ReadMe_en.md)**
 It's only for Chinese.I don't recommend people outside China to use it.
 
 ![SmartDNS](https://raw.github.com/pymumu/smartdns/master/doc/smartdns-banner.png)  
